@@ -9,11 +9,8 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -42,6 +39,7 @@ Lets see how to run this program on a local machine.
 ### Prerequisites
 
 You will need the following modules 
+```
 1 from numpy import product , array , unique , zeros , divide , nan_to_num
 2 import sys 
 3 from copy import deepcopy
@@ -55,7 +53,7 @@ You will need the following modules
 11 from random import choice , randint , sample 
 12 from numpy import array , setdiff1d , concatenate , reshape , append , put , divide , nan_to_num , product , zeros
 13 from numpy.random import rand
-
+```
 ### Installation
 
 1. Clone the repo
