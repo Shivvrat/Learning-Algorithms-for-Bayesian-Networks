@@ -93,6 +93,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Shivvrat Arya[@ShivvratA](https://twitter.com/ShivvratA) - shivvratvarya@gmail.com
+Shivvrat Arya - [@ShivvratA](https://twitter.com/ShivvratA) - shivvratvarya@gmail.com
 
 Project Link: [https://github.com/Shivvrat/Learning-Algorithm-for-Bayesian-Networks.git](https://github.com/Shivvrat/Learning-Algorithm-for-Bayesian-Networks.git)
